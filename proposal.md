@@ -4,7 +4,7 @@
 
 ## Team Members:
 
-Chen Song (chs222@pitt.edu) Yuxuan Li (yul154@pitt.edu)
+Chen Song (chs222@pitt.edu) Yuxuan Li (yul154@pitt.edu) Junjia Guo (jug44@pitt.edu)
 
 
 ## Description:
