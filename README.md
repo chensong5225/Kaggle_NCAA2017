@@ -1,3 +1,6 @@
+presentation: https://docs.google.com/presentation/d/1vrZP9qja3sT02PvReCWfdRoKWCnWdwsVLIcTOvR-AEM/edit?usp=sharing  
+report: https://docs.google.com/document/d/121czld7vF3Pn8-rJziMHkfX_RNAWCSUEf3aYjO4f-n0/edit?usp=sharing
+
 # Final project:
 
 The final project is a group project, with 2 to 3 members in each group. Each group will prepare a project proposal, then write a final report and present their work at the end of the semester. Projects are expected to solve real-world problem(s) using machine learning.  
